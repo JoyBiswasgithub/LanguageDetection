@@ -1,2 +1,2 @@
 pickle == 4.0
-streamlit
+streamlit == 1.31.0
