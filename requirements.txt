@@ -1,2 +1,2 @@
-pickle
+pickle == 4.0
 streamlit
