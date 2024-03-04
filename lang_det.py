@@ -1,9 +1,6 @@
 import pickle
 import streamlit as st
 
-
-import pickle
-
 pickle_file_path = "svc98.pkl"
 
 with open(pickle_file_path, "rb") as pickle_file:
